@@ -1,0 +1,7 @@
+body { background:#f8f9fa; }
+.hero {
+  background: url('../images/hero-bg.jpg') center/cover no-repeat;
+  height: 60vh; color:#fff;
+}
+.card { border:none; }
+footer { background:#fff; }
